@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 # Narmer-Sovereign-Public
 🔱 Narmer Matrix v10.5: Pioneering Sovereign Metrology. An advanced digital engine by Architect M.A. Youssef to measure national power via 11 strategic pillars. Utilizing the V-Score &amp; SHA-256 auditing, it transforms geopolitical variables into actionable intelligence. The Digital Compass for state resilience. #SovereignMetrology #NarmerSiM
 # Narmer Sovereign Matrix (Narmer SiM) v10.5
@@ -14,7 +15,10 @@ The **Narmer Sovereign Matrix** is a proprietary mathematical and predictive mod
 
 ## 📊 The Core Framework: V-SCORE
 The matrix operates on 11 fundamental pillars, processing multi-dimensional data points to generate the **Sovereignty Score (V-SCORE)**. 
-
+### 📐 The V-Score Engine (Mathematical Philosophy)
+Unlike standard indices that use simple arithmetic means, Narmer SiM utilizes the **Weighted Geometric Mean**. In Sovereign Metrology, weakness in one sector cannot be fully compensated by strength in another.
+$$V\text{-Score} = \left( \prod_{i=1}^{n} x_i^{w_i} \right)$$
+*Where $x$ represents the pillar value and $w$ its relative strategic weight.*
 ### Key Capabilities:
 * **Geopolitical Risk Modeling:** Predicting resilience against external pressures.
 * **Logistical Security Matrix:** Analyzing the robustness of sovereign supply chains.
